@@ -16,7 +16,7 @@
   flex: 1;
   flex-direction: column;
   height: 100vh;
-  background-color:honeydew;
+  background-color:#fefefe
 }
 .mid-container{
   flex: 1;
@@ -80,6 +80,7 @@
 }
 .card-section{
   height: 350px;
+  width: 100vw;
 }
 .card-expiry-container{
   display: flex;

@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './test.css'
 import TopSection from './TopSection';
 import LeftSection from './LeftSection';
 import CarouselSection from './CarouselSection';
