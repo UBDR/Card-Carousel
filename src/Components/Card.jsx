@@ -24,7 +24,7 @@ function Card({ name, number, expiry, color, spend }) {
                     <p>Spend Limit: {spend}</p>
                     <button id='btn-cancel' className='btn-smt' onClick={() => {
                         setShowCurrentCard(false)
-                    }}>Cancel</button>
+                    }}>Close</button>
                 </ModalBody>
 
             </Modal>
